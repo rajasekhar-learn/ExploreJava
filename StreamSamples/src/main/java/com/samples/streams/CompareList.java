@@ -1,9 +1,7 @@
 package com.samples.streams;
 
-public class StreamsApp {
-
+public class CompareList {
     public static void main(String[] args) {
-        System.out.println("hiiii");
-    }
 
+    }
 }
